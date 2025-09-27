@@ -217,12 +217,12 @@
           <mxGeometry x="45.5" y="88.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="riJwW6ew0qAEAaC66bz5-30" value="AI/ML" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="476" width="240" height="110" as="geometry">
+          <mxGeometry x="1621" y="476" width="222" height="110" as="geometry">
             <mxRectangle x="1580" y="639" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="riJwW6ew0qAEAaC66bz5-109" value="" style="group" vertex="1" connectable="0" parent="riJwW6ew0qAEAaC66bz5-30">
-          <mxGeometry x="31.5" y="34" width="82" height="73" as="geometry" />
+          <mxGeometry x="26.5" y="34" width="82" height="73" as="geometry" />
         </mxCell>
         <mxCell id="riJwW6ew0qAEAaC66bz5-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://repository-images.githubusercontent.com/294219252/aacccd92-e37f-48d8-950f-20deb84b7c43;" vertex="1" parent="riJwW6ew0qAEAaC66bz5-109">
           <mxGeometry y="-18" width="82" height="82" as="geometry" />
@@ -231,7 +231,7 @@
           <mxGeometry y="43" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="riJwW6ew0qAEAaC66bz5-110" value="" style="group" vertex="1" connectable="0" parent="riJwW6ew0qAEAaC66bz5-30">
-          <mxGeometry x="130" y="34" width="70" height="73" as="geometry" />
+          <mxGeometry x="125" y="34" width="70" height="73" as="geometry" />
         </mxCell>
         <mxCell id="riJwW6ew0qAEAaC66bz5-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/1348731-200.png;" vertex="1" parent="riJwW6ew0qAEAaC66bz5-110">
           <mxGeometry x="9.5" width="51" height="51" as="geometry" />
@@ -275,15 +275,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="riJwW6ew0qAEAaC66bz5-78" value="Post-processors" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="290" width="240" height="120" as="geometry">
+          <mxGeometry x="1623" y="290" width="218" height="120" as="geometry">
             <mxRectangle x="1120" y="639" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="riJwW6ew0qAEAaC66bz5-98" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="riJwW6ew0qAEAaC66bz5-78">
-          <mxGeometry x="139" y="40" width="50" height="50" as="geometry" />
+          <mxGeometry x="130" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="riJwW6ew0qAEAaC66bz5-108" value="" style="group" vertex="1" connectable="0" parent="riJwW6ew0qAEAaC66bz5-78">
-          <mxGeometry x="44.78" y="40" width="50" height="71.00086956521739" as="geometry" />
+          <mxGeometry x="38.78" y="40" width="50" height="71.00086956521739" as="geometry" />
         </mxCell>
         <mxCell id="riJwW6ew0qAEAaC66bz5-96" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png;" vertex="1" parent="riJwW6ew0qAEAaC66bz5-108">
           <mxGeometry x="2.394750000000002" width="45.21739130434783" height="45.21739130434783" as="geometry" />
